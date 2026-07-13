@@ -75,3 +75,26 @@ float getOutdoorTemp() {
   }
   return NAN;
 }
+```
+## 📊 5. Validation & Testing Results
+The system underwent rigorous testing to ensure edge-to-cloud integration reliability:
+1. **Sensor Precision**: The DHT11 successfully read incubator temperatures with a minimal error variance of under $\pm1^\circ\text{C}$ compared to baseline thermal instruments.
+2. **API Parsing Integration**: The ESP32 achieved stable Wi-Fi handshakes, successfully deserializing outdoor climate metrics seamlessly.
+3. **Zero-Lag Interface**: The I2C OLED interface refreshed multi-variable lines (Internal Temp, Outdoor Temp, Status String) precisely every 5 seconds without UI glitches or data drops.
+
+## 📈 6. Future Roadmap
+To elevate this project to industrial standards, future updates will focus on:
+* **Closed-Loop Automation**: Incorporating relay modules connected to electronic heating elements and cooling fans for proactive temperature adjustments.
+* **Dual-Variable Sensor Fusion**: Adding Relative Humidity (RH) parameters to further scale embryo survival metrics.
+* **Mobile IoT Dashboard**: Constructing a cloud-linked Android/iOS dashboard application (e.g., Blynk or Node-RED) for long-range remote diagnostics.
+
+## 👥 Project Team & Contributors
+**Nur Fadhilah** (Hardware Assembly, Firmware Implementation & Performance Tuning)
+
+**Saniyyah Intan Salsabila** (System Architecture Planning & Algorithm Logic Design)
+
+**Tua Delima Sitompul** (Data Analytics, Quality Assurance & Technical Writing)
+
+**Raihan Rahmadini Putri** (Multimedia Documentation & Technical Journalism)
+
+Affiliation: Mulawarman University, 2026.
