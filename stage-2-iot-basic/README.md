@@ -2,7 +2,7 @@
 
 > **Project Description:** An automated, real-time temperature monitoring system built with ESP32 to optimize chicken egg hatching success rates through dynamic audio-visual alerts and external weather API integration.
 
-![Project Physical Overview](assets/foto_alat.jpg)
+![Project Physical Overview](assets/foto_alat.png)
 
 ### 🚀 Quick Links
 * **📂 Source Code:** `[Click Here to View Code]` (Link to your src/ folder)
