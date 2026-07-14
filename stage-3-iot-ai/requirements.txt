@@ -1,0 +1,6 @@
+streamlit
+paho-mqtt
+scikit-learn
+pandas
+numpy
+arduinojson
