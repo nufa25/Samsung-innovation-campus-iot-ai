@@ -5,8 +5,8 @@
 ![Project Physical Overview](assets/foto_alat.png)
 
 ### 🚀 Quick Links
-* **📂 Source Code:** `[Click Here to View Code]` (Link to your src/ folder)
-* **📺 Video Demonstration:** `[Click Here to Watch Video]` (Link to YouTube/Drive)
+* **📂 Source Code:** [`Click Here to View Code`](https://github.com/nufa25/Samsung-innovation-campus-iot-ai/blob/main/stage-2-iot-basic/src/Final_Project.ino)
+* **📺 Video Demonstration:** [`Click Here to Watch Video`](https://drive.google.com/file/d/1M79yNFXrk_zZophXxLq8Ddbx2DieNsov/view)
 
 ---
 
